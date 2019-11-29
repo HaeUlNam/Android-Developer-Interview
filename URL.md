@@ -1,4 +1,4 @@
-# 주니어 개발자가 보면 좋은 레포
+# 주니어 개발자
 
 - [TECH CONCERT: MOBILE 2019 - 안드로이드 개발자 로드맵](https://tv.naver.com/v/9329737/list/486582)
 - [TECH CONCERT: MOBILE 2019 - 쪼개지고 나누어지는 안드로이드](https://tv.naver.com/v/9329746/list/486582)
