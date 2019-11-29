@@ -8,6 +8,7 @@
 - [배달의 민족 - 클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 - [권세환님 - Android MVP 무작정 따라하기 시리즈](https://thdev.tech/androiddev/2016/10/12/Android-MVP-Intro/)
 - [TECH CONCERT: MOBILE 2019 - 예제에서는 알려주지 않는 Model 이야기](https://tv.naver.com/v/9329728/list/486582)
+- [Android Architecture Blueprints v2](https://github.com/android/architecture-samples)
 
 # 면접 후기 및 질문리스트
 - [한 '대기업' 의 안드로이드 어플리케이션 개발직무 인턴십 면접](https://blog.naver.com/PostView.nhn?blogId=csi468_&logNo=221465784013&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList)
@@ -15,3 +16,6 @@
 
 # 보안
 - [HyperConnect - 안드로이드 앱의 Persistent data를 제대로 암호화해 보자! 시리즈](https://hyperconnect.github.io/2018/06/03/android-secure-sharedpref-howto.html)
+
+# 참고 블로그
+- [Google Android Developer](https://developer.android.com/guide)
