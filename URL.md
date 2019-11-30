@@ -14,6 +14,9 @@
 - [한 '대기업' 의 안드로이드 어플리케이션 개발직무 인턴십 면접](https://blog.naver.com/PostView.nhn?blogId=csi468_&logNo=221465784013&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postList)
 - [현우의 개발 노트 - 안드로이드 면접대비](https://hyeonu1258.github.io/2018/03/26/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EB%A9%B4%EC%A0%91/)
 
+# TDD
+- [리멤버 - 안드로이드에 테스트 도입하기](https://blog.dramancompany.com/2016/08/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0/)
+
 # 보안
 - [HyperConnect - 안드로이드 앱의 Persistent data를 제대로 암호화해 보자! 시리즈](https://hyperconnect.github.io/2018/06/03/android-secure-sharedpref-howto.html)
 
