@@ -16,6 +16,7 @@
 
 # TDD
 - [리멤버 - 안드로이드에 테스트 도입하기](https://blog.dramancompany.com/2016/08/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%97%90-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0/)
+- [DroidKnights 2019 - Android TDD 적용기](https://www.youtube.com/watch?v=avcKY-_3gus)
 
 # 보안
 - [HyperConnect - 안드로이드 앱의 Persistent data를 제대로 암호화해 보자! 시리즈](https://hyperconnect.github.io/2018/06/03/android-secure-sharedpref-howto.html)
