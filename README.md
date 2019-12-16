@@ -1,6 +1,6 @@
 # Interview 대비 
 안드로이드 개발자로서 알아야 할 개념들에 대해 정리하는 레포입니다.
-<br/>
+<br>
 ## 파일 및 레포지토리 설명
 - [URL.md](https://github.com/HaeUlNam/Android-Developer-Interview/blob/master/URL.md) : 참고하면 좋을 만한 안드로이드 관련 URL을 정리해두었습니다.
 - [PROGRESS.md](https://github.com/HaeUlNam/Android-Developer-Interview/blob/master/PROGRESS.md) : 주차별 진행 정도 및 담당 파트를 기록했습니다.
