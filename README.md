@@ -48,6 +48,7 @@
 - Collection , 람다
 - 제너릭
 - Class, interface 상속 ( OOP개념. 왜 쓰는지)
+- Shallow Copy, Deep Copy
 - ...
 
 ## Design Pattern
