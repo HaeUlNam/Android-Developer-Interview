@@ -11,8 +11,9 @@
 - 시스템 콜(유저 모드, 커널 모드)
 - 시스템 부트
 - 스레드, 프로세스
-- Deadlock, Synchronization
-- Main memory, Virtual memory
+- Synchronization : Semaphore, DeadLock
+- Main memory : Address binding && Segmentation, Paging && TLB, 
+- Virtual memory : Virtual Memory && Demand Paging, Page Replacement 알고리즘(FIFO, LRU, Optimal Page..) && Thrashing
 - CPU 스케줄링
 - File system (Inode, journaling, allocation, caching ...) 
 - Disk 스케줄링(HDD vs SSD)
