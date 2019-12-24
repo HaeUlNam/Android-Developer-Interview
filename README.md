@@ -22,7 +22,8 @@
 
 ## Network
 - 우선은 책으로 기본 개념 학습
-- Http, Https + REST + 대칭키 비대칭키 
+- Http, Https + REST + 대칭키 비대칭키
+- Socket
 - 5계층
 - ... 
 
