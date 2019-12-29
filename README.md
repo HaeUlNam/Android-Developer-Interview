@@ -30,8 +30,7 @@
 ## DB
 - 트랜잭션, join
 - 관계형 DB vs 비관계형 DB 
-- Indexing, B+ tree
-- ...
+- B+ Tree Indexing && Hash Indexing
 
 ## Android
 ### 어떻게 사용하는지 + 예제 + 문제 발생시에 해결 방안
