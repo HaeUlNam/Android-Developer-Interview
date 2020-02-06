@@ -38,6 +38,8 @@
 - Fragment , intent , context
 - 핸들러, 루퍼, 메세지 큐 , ui thread , 비동기 라이브러리
 - View lifecycle
+- ListView vs Recyclerview
+- Retrofit, Volley
 - Context
 - MVC, MVP, MVVM 왜 쓰는가. 각 패턴의 장단점.
 - 가능하면 Jetpack
