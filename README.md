@@ -34,16 +34,25 @@
 
 ## Android
 ### 어떻게 사용하는지 + 예제 + 문제 발생시에 해결 방안
-- 4대 컴포넌트
-- Fragment , intent , context
-- 핸들러, 루퍼, 메세지 큐 , ui thread , 비동기 라이브러리
-- View lifecycle
-- ListView vs Recyclerview
-- Retrofit, Volley
-- Context
+- Activity
+- BroadcastReceiver
+- Service
+- ContentProvider
+- View와 ViewGroup, View Lifecycle
+- Intent(명시적 intent, 암시적 intent 등등), Context
+- Thread, Handler, Looper, ANR
+- HTTP통신(Java API 이용 vs Retrofit vs Volley)
+- ListView vs RecyclerView
+- Android Test (JUnit, Espresso) 
+
+-> 여기서부터 AAC(Android Architecture Component)
+- DataBinding vs ButterKnife vs FindViewById
+- ViewModel
+- Room
+- Workmanager
+- Paging
+- 생명주기 기반 컴포넌트
 - MVC, MVP, MVVM 왜 쓰는가. 각 패턴의 장단점.
-- 가능하면 Jetpack
-- ...
 
 ## Java
 - 5대 원칙(SOLID)
